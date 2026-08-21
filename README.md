@@ -1,4 +1,4 @@
-# 🚀 Modern MLOps Masterclass: From Prototype to Production
+Modern MLOps Masterclass: From Prototype to Production
 
 Welcome to the **Modern MLOps Masterclass** codebase. This repository contains complete, runnable, production-grade implementations of the four core pillars of enterprise MLOps: **DVC**, **MLflow**, **Apache Airflow**, and **H2O AutoML**, culminating in a unified **End-to-End Automated Retraining DAG**.
 
@@ -43,7 +43,7 @@ This opens an interactive CLI menu allowing you to run any of the 10 demos indiv
 
 ---
 
-## 📊 Case Study Dataset: Customer Churn 5K
+## Case Study Dataset: Customer Churn 5K
 
 To reflect real-world enterprise scenarios, all demos utilize our **5,000-subscriber Enterprise Customer Churn dataset** ([`data/customer_churn_5k.csv`](data/customer_churn_5k.csv)):
 - **Volume:** 5,000 subscriber accounts
@@ -53,7 +53,7 @@ To reflect real-world enterprise scenarios, all demos utilize our **5,000-subscr
 
 ---
 
-## 📁 Repository Structure & Demos
+## Repository Structure & Demos
 
 ```
 mlopsdemo/
@@ -89,7 +89,7 @@ mlopsdemo/
 
 ---
 
-## 🛠️ Detailed Pillar Walkthroughs
+## Detailed Pillar Walkthroughs
 
 ### Pillar 1: Data Version Control (DVC)
 Tracks large datasets and machine learning pipeline dependencies using lightweight text pointers (`.dvc` files) committed to Git.
@@ -140,7 +140,7 @@ python h20ai/demo_h2o.py
 
 ---
 
-### 🚀 Capstone: Unified End-to-End Retraining DAG
+### Capstone: Unified End-to-End Retraining DAG
 Unites all 4 pillars into a single automated 9-stage pipeline:
 
 ```bash
@@ -160,7 +160,7 @@ python airflow/dags/end_to_end_mlops_pipeline.py
 
 ---
 
-## 🧪 Automated Test Suite
+## Automated Test Suite
 
 Run the full pre-flight test suite to verify that 100% of all 10 demo modules pass cleanly:
 ```bash
@@ -168,12 +168,6 @@ python run_all_demos.py --test-all
 ```
 
 ---
-
-## 📑 Presentation & Instructor Materials
-
-- **PowerPoint Presentation Deck:** [`MLOps_2Hour_Masterclass.pptx`](MLOps_2Hour_Masterclass.pptx) (23 slides, 16:9 widescreen, clean executive white theme).
-- **Printable Instructor Lecture Notes:** [`INSTRUCTOR_LECTURE_NOTES.md`](INSTRUCTOR_LECTURE_NOTES.md) (Slide-by-slide speaking scripts, talking points, and Q&A).
-- **Presenter Cheat Sheet:** [`INSTRUCTOR_QUICK_REFERENCE.md`](INSTRUCTOR_QUICK_REFERENCE.md) (1-page quick command reference).
 
 ---
 
