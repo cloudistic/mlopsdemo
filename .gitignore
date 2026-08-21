@@ -1,0 +1,59 @@
+# Python Environment & Virtualenv
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Instructor-Only Materials & Slides (DO NOT PUSH)
+*.pptx
+*.pdf
+INSTRUCTOR_LECTURE_NOTES.md
+INSTRUCTOR_QUICK_REFERENCE.md
+ENHANCEMENT_SUMMARY.md
+generate_presentation.py
+
+# MLflow & Airflow Local Run Data & DBs
+mlruns/
+.mlflow/
+mlflow/*.db
+mlflow/*.db.bak
+airflow.db
+airflow.cfg
+webserver_config.py
+logs/
+
+# DVC Local Storage & Simulated Remote
+dvcremote/
+.dvc/cache/
+.dvc/tmp/
+dvc/dvc-remote-demo/
+
+# OS / IDE Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Pipeline Execution Dirs
+/tmp/ml_churn_pipeline/
+/tmp/unified_mlops_pipeline/
+h2ologs/

@@ -1,0 +1,4 @@
+[core]
+    remote = mybackup
+['remote "mybackup"']
+    url = /tmp/backup

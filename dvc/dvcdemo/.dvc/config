@@ -1,0 +1,4 @@
+[core]
+    remote = dvcdemorepo
+['remote "dvcdemorepo"']
+    url = /Users/tamil/Projects/lectures/mlopsdemo/dvcremote

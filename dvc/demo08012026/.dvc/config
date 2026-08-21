@@ -1,0 +1,4 @@
+[core]
+    remote = myremore
+['remote "myremore"']
+    url = ../../dvc-remote-demo
