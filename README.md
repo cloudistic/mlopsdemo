@@ -1,4 +1,4 @@
-Modern MLOps Masterclass: From Prototype to Production
+# Modern MLOps Masterclass: From Prototype to Production
 
 Welcome to the **Modern MLOps Masterclass** codebase. This repository contains complete, runnable, production-grade implementations of the four core pillars of enterprise MLOps: **DVC**, **MLflow**, **Apache Airflow**, and **H2O AutoML**, culminating in a unified **End-to-End Automated Retraining DAG**.
 
