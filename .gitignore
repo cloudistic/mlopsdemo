@@ -25,6 +25,7 @@ wheels/
 # Instructor-Only Materials & Slides (DO NOT PUSH)
 *.pptx
 *.pdf
+*.zip
 INSTRUCTOR_LECTURE_NOTES.md
 INSTRUCTOR_QUICK_REFERENCE.md
 ENHANCEMENT_SUMMARY.md
