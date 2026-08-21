@@ -29,6 +29,7 @@ INSTRUCTOR_LECTURE_NOTES.md
 INSTRUCTOR_QUICK_REFERENCE.md
 ENHANCEMENT_SUMMARY.md
 generate_presentation.py
+convert_md_to_pdf.py
 
 # MLflow & Airflow Local Run Data & DBs
 mlruns/
