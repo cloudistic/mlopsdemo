@@ -85,7 +85,7 @@ task_bash = BashOperator(
 
 task_final = BashOperator(
     task_id='final_task',
-    bash_command='echo "   [Task 5: final_task] Pipeline workflow completed successfully! 🎉"',
+    bash_command='echo "   [Task 5: final_task] Pipeline workflow completed successfully! "',
     dag=dag,
 )
 

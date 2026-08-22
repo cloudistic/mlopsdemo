@@ -27,7 +27,7 @@ print("=" * 80)
 print("  MLflow Demo 2: Multi-Model Benchmarking (Customer Churn 5K Dataset)")
 print("=" * 80)
 
-status = setup_tracking("lecture-churn-model-comparison", "http://127.0.0.1:5000")
+status = setup_tracking("lecture-churn-model-comparison", "http://127.0.0.1:5001")
 print(f"\n[Tracking Status] {status}")
 
 # 1. Load Data

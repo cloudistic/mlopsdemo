@@ -28,7 +28,7 @@ mlflow.sklearn.autolog(
     log_models=True
 )
 
-status = setup_tracking("lecture-churn-autolog-demo", "http://127.0.0.1:5000")
+status = setup_tracking("lecture-churn-autolog-demo", "http://127.0.0.1:5001")
 print(f"\n[Tracking Status] {status}")
 
 # 2. Data
