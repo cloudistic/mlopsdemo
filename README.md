@@ -4,7 +4,7 @@ Welcome to the **Modern MLOps Masterclass** codebase. This repository contains c
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Clone & Activate Virtual Environment
 ```bash
@@ -32,14 +32,14 @@ python run_all_demos.py --test-all
 
 ---
 
-## 📖 Complete Student Study Guide
+## Complete Student Study Guide
 
 For complete, in-depth lecture notes, architectural explanations, code walkthroughs, and self-study exercises, please refer to:
-👉 **[`STUDENT_LECTURE_NOTES.md`](STUDENT_LECTURE_NOTES.md)**
+ **[`STUDENT_LECTURE_NOTES.md`](STUDENT_LECTURE_NOTES.md)**
 
 ---
 
-## 🌐 Web Dashboards & Services
+## Web Dashboards & Services
 
 | Service | Terminal Command | Web URL |
 | :--- | :--- | :--- |
@@ -48,6 +48,3 @@ For complete, in-depth lecture notes, architectural explanations, code walkthrou
 | **DVC Plots Dashboard** | `cd dvc/dvctutorial && dvc plots show` | Opens interactive browser dashboard |
 
 ---
-
-## 📄 License
-MIT License. Created for the Modern MLOps Masterclass Series.
