@@ -1,6 +1,6 @@
 # Apache Airflow Tutorial - ML Pipeline Orchestration
 
-## 🎯 Learning Objectives (45 minutes)
+## Learning Objectives (45 minutes)
 
 In this module, you will learn:
 1. What Apache Airflow is and why it's essential for ML workflows

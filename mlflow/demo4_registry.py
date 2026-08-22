@@ -25,7 +25,7 @@ print("=" * 75)
 print("  MLflow Demo 4: Model Registry & Lifecycle Governance (Churn 5K)")
 print("=" * 75)
 
-status = setup_tracking("lecture-churn-registry", "http://127.0.0.1:5000")
+status = setup_tracking("lecture-churn-registry", "http://127.0.0.1:5001")
 print(f"\n[Tracking Status] {status}")
 
 # 1. Prepare Data
